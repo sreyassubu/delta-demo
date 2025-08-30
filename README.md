@@ -5,4 +5,4 @@ This is a demo for Git &amp; GitHub class.
 Shradha Khapra
 
 # Student
-Sreyas
+Sreyas K
